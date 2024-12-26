@@ -5,7 +5,25 @@
 
 &nbsp;
 &nbsp;
+
+<h2 align="left">About</h2>
+
+<p>
+I'm a software engineer with a focus on Backend and Web development, skilled in Python, Java, Spring Cloud, Kubernetes, and AWS. As an AWS Certified Developer, I create software solutions that optimize processes and enhance user experiences.
+
+In addition to my development work, I am currently actively managing projects, leading a team, and ensuring smooth execution and delivery. My experience spans projects like UC Messenger Backend Services and RFID Reader Applications, where I tackled diverse technologies and resolved complex challenges.
+
+I also hold a Canadian working visa, which enables me to collaborate and contribute globally, especially in Canada’s dynamic tech landscape.
+
+I'm always eager to learn new skills and take on fresh challenges. My goal is to continuously improve, manage projects effectively, and deliver high-quality results.
+
+Feel free to connect if you'd like to collaborate on innovative software development and cloud-based solutions.
+</p>
+
 &nbsp;
+&nbsp;
+
+<h2 align="left">Skills</h2>
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" /> </a>
