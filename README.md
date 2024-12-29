@@ -3,7 +3,7 @@
 - **Email:** kyungtaekjonaslim@gmail.com
 - **LinkedIn:** [KyungTaek Jonas Lim](https://www.linkedin.com/in/kyungtaek-jonas-lim)
 - **GitHub:** [kyungtaek-jonas-lim](https://github.com/kyungtaek-jonas-lim)
-- **Certification:** AWS Certified Developer - Associate
+- **Certification:** [AWS Certified Developer - Associate](https://www.credly.com/badges/ddcfeed2-de18-427a-be54-d86f820f7919/public_url)
 - **Languages:** Bilingual in **English** and **Korean**
 
 ---
