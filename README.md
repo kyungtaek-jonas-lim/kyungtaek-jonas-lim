@@ -21,6 +21,15 @@ Feel free to connect if you'd like to collaborate on innovative software develop
 
 ---
 
+## **Side Projects**
+- [*`jonas-fastapi-master`*](https://github.com/kyungtaek-jonas-lim/jonas-fastapi-master): Handy Components on AWS (ECS, ECR)
+- [*`jonas-api-master`*](https://github.com/kyungtaek-jonas-lim/jonas-api-master): API Integration Service
+- [*`jonastalk`*](https://github.com/kyungtaek-jonas-lim/jonastalk): Web Chat Application
+- [*`jonascode`*](https://github.com/kyungtaek-jonas-lim/jonascode): Practicing Coding Challenges
+- [*`jonastudy`*](https://github.com/kyungtaek-jonas-lim/jonastudy): Studying Materials in Korean/English
+
+---
+
 ## **Skills**
 
   ![Java](https://img.shields.io/badge/Java-F8A51C?style=for-the-badge&logo=java&logoColor=white) 
