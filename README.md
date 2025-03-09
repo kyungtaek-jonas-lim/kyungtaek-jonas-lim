@@ -22,9 +22,9 @@ Feel free to connect if you'd like to collaborate on innovative software develop
 ---
 
 ## **Side Projects**
+- [*`jonastalk`*](https://github.com/kyungtaek-jonas-lim/jonastalk): Web Chat Application
 - [*`jonas-fastapi-master`*](https://github.com/kyungtaek-jonas-lim/jonas-fastapi-master): Handy Components on AWS (ECS, ECR)
 - [*`jonas-api-master`*](https://github.com/kyungtaek-jonas-lim/jonas-api-master): API Integration Service
-- [*`jonastalk`*](https://github.com/kyungtaek-jonas-lim/jonastalk): Web Chat Application
 - [*`jonascode`*](https://github.com/kyungtaek-jonas-lim/jonascode): Practicing Coding Challenges
 - [*`jonastudy`*](https://github.com/kyungtaek-jonas-lim/jonastudy): Studying Materials in Korean/English
 
@@ -33,9 +33,9 @@ Feel free to connect if you'd like to collaborate on innovative software develop
 ## **Skills**
 
   ![Java](https://img.shields.io/badge/Java-F8A51C?style=for-the-badge&logo=java&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
