@@ -21,12 +21,12 @@ Feel free to connect if you'd like to collaborate on innovative software develop
 
 ---
 
-## **Side Projects**
+## **Open Source Projects**
 - [*`jonastalk`*](https://github.com/kyungtaek-jonas-lim/jonastalk): Web Chat Application
 - [*`jonas-fastapi-master`*](https://github.com/kyungtaek-jonas-lim/jonas-fastapi-master): Handy Components on AWS (ECS, ECR)
 - [*`jonas-api-master`*](https://github.com/kyungtaek-jonas-lim/jonas-api-master): API Integration Service
 - [*`jonascode`*](https://github.com/kyungtaek-jonas-lim/jonascode): Practicing Coding Challenges
-- [*`jonastudy`*](https://github.com/kyungtaek-jonas-lim/jonasystemdesign): Practicing System Design Challenges
+- [*`jonasystemdesign`*](https://github.com/kyungtaek-jonas-lim/jonasystemdesign): Practicing System Design Challenges
 - [*`jonastudy`*](https://github.com/kyungtaek-jonas-lim/jonastudy): Studying Materials in Korean/English
 
 ---
